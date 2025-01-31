@@ -12,7 +12,7 @@
 
 
 
-![Evaluation indicators](img/Evaluation indicators.png)
+![Evaluation indicators](img\Evaluation indicators.png)
 
 ## How
 
