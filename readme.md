@@ -12,7 +12,7 @@
 
 
 
-![](/Evaluation indicators.jpg)
+![Evaluation indicators](Evaluation indicators.jpg)
 
 ## How
 
