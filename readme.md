@@ -8,7 +8,11 @@
 - The subjective evaluation of Prompt requires automated testing of Prompt, and then using human supervisors to evaluate the requirements effect.
 - Objective evaluation needs to be determined based on factors such as the length of the prompt, its structure, and whether it complies with the prompt rules.
 
-## Core-How to judge prompt response?![](Evaluation indicators.jpg)
+## Core-How to judge prompt response?
+
+
+
+![](Evaluation indicators.jpg)
 
 ## How
 
